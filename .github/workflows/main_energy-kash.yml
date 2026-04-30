@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'energy-kash'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_17BC6CB164C2427A973FAB2774844329 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41FC633AA38643B9B7D8996913637E28 }}
